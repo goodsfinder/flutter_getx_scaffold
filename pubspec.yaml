@@ -8,8 +8,6 @@ issue_tracker: https://github.com/Kxmrg/flutter_getx_scaffold/issues
 environment:
   sdk: ">=3.3.3 <4.0.0"
   flutter: ">=3.3.0"
-
-dependencies:
   flutter:
     sdk: flutter
   intl: ^0.20.0
